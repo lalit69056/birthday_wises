@@ -31,8 +31,8 @@ const themes = [
 
 const finalMessages = [
   { text: "Happy Birthday, my love!", emoji: "🎂", subtext: "Another year of loving you" },
-  { text: "Happy Anniversary to us!", emoji: "💍", subtext: "Forever and always" },
-  { text: "You mean the world to me.", emoji: "🌍", subtext: "My heart belongs to you" }
+//   { text: "Happy Anniversary to us!", emoji: "💍", subtext: "Forever and always" },
+//   { text: "You mean the world to me.", emoji: "🌍", subtext: "My heart belongs to you" }
 ];
 
 const FloatingParticle = ({ particle, delay }) => (
